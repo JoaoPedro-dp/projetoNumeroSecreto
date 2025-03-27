@@ -11,4 +11,4 @@
 </div>
 
 <h1>Responsável</h1>
-<p>João Pedro Dias Pinto<br> <a href="https://www.linkedin.com">Linkedin</a></p>
+<p>João Pedro Dias Pinto<br> <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-dias-pinto-230018152/" target="_blank">Linkedin</a></p>
